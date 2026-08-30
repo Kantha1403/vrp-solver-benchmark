@@ -2,7 +2,7 @@
 
 A minimal, complete decision-optimization portfolio piece: given a fleet of
 capacity-constrained vehicles and a set of delivery customers, find the routing
-that minimizes total distance — solved two ways and benchmarked against each other.
+that minimizes total distance — solved with an exact CP-based solver and benchmarked against two classical heuristics.
 
 ## Why this exists
 Built to demonstrate the "Optimization & solvers (MILP/CP-SAT)" and "design robust
