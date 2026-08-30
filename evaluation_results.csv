@@ -1,0 +1,6 @@
+seed,OR-Tools CP Routing_distance,OR-Tools CP Routing_feasible,OR-Tools CP Routing_solve_time_s,Nearest-Neighbor Heuristic_distance,Nearest-Neighbor Heuristic_feasible,pct_improvement_vs_Nearest-Neighbor Heuristic,Clarke-Wright Savings_distance,Clarke-Wright Savings_feasible,pct_improvement_vs_Clarke-Wright Savings
+1,570.439,True,10.000689100008458,833.9351112971854,True,31.6,602.6647687128957,True,5.35
+2,0.0,False,10.000481900002342,650.5379855456217,False,,0.0,False,
+3,505.657,True,10.00041720000445,737.1614762222539,True,31.4,514.5899559755089,True,1.74
+4,519.784,True,10.000424099998781,610.8481164165447,True,14.91,556.1965848425981,True,6.55
+5,541.215,True,10.001674099999946,718.9143357955442,True,24.72,583.6737846688891,True,7.27
